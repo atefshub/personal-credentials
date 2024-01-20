@@ -1,0 +1,107 @@
+devops road map
+Linux:-
+        Creating and editing files
+Running programs
+Managing users, groups and permissions
+Understanding where programs and system files are kept – this is sometimes called the Linux directory structure
+Configuring network connections and firewalls
+Installing and configuring software – usually called packages in Linux
+Building and compiling software – for example, how to build Java, C or JavaScript programs
+Monitoring programs and processes – e.g. using the command top
+Automating all of the things above – using simple scripting like Bash
+linux
+Basic Linux Commands
+05:29
+listing files and directories: ls command
+12:28
+Change Directory : cd command
+07:58
+Reading files with less more tail & head commands
+10:39
+Creating and editing files with touch and nano command
+12:30
+Creating directories
+00:04
+Removing files and directories
+05:52
+file & find commands
+09:38
+search a keyword/pattern with grep: grep command
+10:40
+Introduction to the User Administration
+10:30
+Creating & Managing user accounts with adduser & useradd commands
+07:48
+File permissions
+10:27
+Connecting to a EC2 Linux VM with a Normal User
+06:19
+Files and Directory Permissions (chmod)
+12:17
+changing permissions with symbolic method
+13:22
+File Permissions Using Numeric Mode
+04:56
+changing ownership of a file or directory with chown command
+12:06
+How to create a sudo user
+12:35
+su & sudo Part-2
+12:03
+Introduction to YUM & APT
+03:40
+Installing & removing packages with APT command in ubuntu
+11:52
+Installing & removing packages with YUM command in Amazon Linux VM
+09:40
+stopping & starting services with systemctl
+11:28
+Enable & Disable a service with systemctl
+06:56
+Start & stop services with service command
+04:40
+What is a Process
+04:45
+Use cases of ps command
+12:04
+Terminate, kill, Suspend a process with kill command
+10:33
+top command
+09:09
+bg & fg commands: put the process in the background or foreground
+10:12
+nice and renice: Alter the nice value of a process
+07:59
+checking virtual memory: vmstat
+08:55
+ifconfig - To check the network interfaces
+04:43
+netstat (network statistics)
+10:45
+ping
+04:59
+curl
+02:24
+wget command: Download files from the Internet
+04:11
+compress & archive with gzip and tar commands
+18:34
+cronjob: schedule tasks
+15:03
+Standard Input & Output (>, >>, <, stdin, stdout and stderr)
+05:42
+Standard error (>, >>, <, stdin, stdout and stderr)
+11:05
+wildcard part-1 (*, ?, ^, [])
+12:17
+wildcard part-2 (*, ?, ^, [])
+08:47
+softlink
+12:11
+hardlink
+07:14
+shutdown & reboot
+06:46
+Viewing log files
+11:13
+Winscp: Transferring files from Linux machine to local Desktop & Vice Versa
